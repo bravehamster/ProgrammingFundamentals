@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MatrixGenerator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MatrixGenerator/bin/Debug/MatrixGenerator.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MatrixGenerator/bin/Debug/MatrixGenerator.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MatrixGenerator/obj/x86/Debug/MatrixGenerator.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MatrixGenerator/obj/x86/Debug/MatrixGenerator.exe.mdb

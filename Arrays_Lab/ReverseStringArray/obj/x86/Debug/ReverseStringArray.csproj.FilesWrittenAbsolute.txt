@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ReverseStringArray/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ReverseStringArray/bin/Debug/ReverseStringArray.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ReverseStringArray/bin/Debug/ReverseStringArray.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ReverseStringArray/obj/x86/Debug/ReverseStringArray.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ReverseStringArray/obj/x86/Debug/ReverseStringArray.exe.mdb

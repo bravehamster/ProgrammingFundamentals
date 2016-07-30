@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/SalesReport/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/SalesReport/bin/Debug/SalesReport.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/SalesReport/bin/Debug/SalesReport.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/SalesReport/obj/x86/Debug/SalesReport.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/SalesReport/obj/x86/Debug/SalesReport.exe.mdb

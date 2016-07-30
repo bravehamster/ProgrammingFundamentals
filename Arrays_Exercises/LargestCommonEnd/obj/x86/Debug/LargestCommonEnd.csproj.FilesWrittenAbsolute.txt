@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/LargestCommonEnd/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/LargestCommonEnd/bin/Debug/LargestCommonEnd.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/LargestCommonEnd/bin/Debug/LargestCommonEnd.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/LargestCommonEnd/obj/x86/Debug/LargestCommonEnd.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/LargestCommonEnd/obj/x86/Debug/LargestCommonEnd.exe.mdb

@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/ClosestTwoPoints/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/ClosestTwoPoints/bin/Debug/ClosestTwoPoints.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/ClosestTwoPoints/bin/Debug/ClosestTwoPoints.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/ClosestTwoPoints/obj/x86/Debug/ClosestTwoPoints.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_lab/ClosestTwoPoints/obj/x86/Debug/ClosestTwoPoints.exe.mdb

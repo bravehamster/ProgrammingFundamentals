@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/FitStringInTwentyChars/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/FitStringInTwentyChars/bin/Debug/FitStringInTwentyChars.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/FitStringInTwentyChars/bin/Debug/FitStringInTwentyChars.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/FitStringInTwentyChars/obj/x86/Debug/FitStringInTwentyChars.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/FitStringInTwentyChars/obj/x86/Debug/FitStringInTwentyChars.exe.mdb

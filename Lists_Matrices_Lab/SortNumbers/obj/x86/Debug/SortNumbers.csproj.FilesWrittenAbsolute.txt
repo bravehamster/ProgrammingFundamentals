@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SortNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SortNumbers/bin/Debug/SortNumbers.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SortNumbers/bin/Debug/SortNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SortNumbers/obj/x86/Debug/SortNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SortNumbers/obj/x86/Debug/SortNumbers.exe.mdb

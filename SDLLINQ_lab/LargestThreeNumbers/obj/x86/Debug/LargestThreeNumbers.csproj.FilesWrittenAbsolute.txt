@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/LargestThreeNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/LargestThreeNumbers/bin/Debug/LargestThreeNumbers.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/LargestThreeNumbers/bin/Debug/LargestThreeNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/LargestThreeNumbers/obj/x86/Debug/LargestThreeNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/LargestThreeNumbers/obj/x86/Debug/LargestThreeNumbers.exe.mdb

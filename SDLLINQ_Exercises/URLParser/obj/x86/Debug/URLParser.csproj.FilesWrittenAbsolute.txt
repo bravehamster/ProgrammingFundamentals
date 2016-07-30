@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/URLParser/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/URLParser/bin/Debug/URLParser.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/URLParser/bin/Debug/URLParser.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/URLParser/obj/x86/Debug/URLParser.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/URLParser/obj/x86/Debug/URLParser.exe.mdb

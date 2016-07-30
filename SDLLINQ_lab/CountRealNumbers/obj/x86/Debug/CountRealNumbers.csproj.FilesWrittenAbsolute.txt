@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountRealNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountRealNumbers/bin/Debug/CountRealNumbers.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountRealNumbers/bin/Debug/CountRealNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountRealNumbers/obj/x86/Debug/CountRealNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountRealNumbers/obj/x86/Debug/CountRealNumbers.exe.mdb

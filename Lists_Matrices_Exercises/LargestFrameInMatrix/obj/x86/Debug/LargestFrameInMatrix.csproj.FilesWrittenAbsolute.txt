@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/LargestFrameInMatrix/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/LargestFrameInMatrix/bin/Debug/LargestFrameInMatrix.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/LargestFrameInMatrix/bin/Debug/LargestFrameInMatrix.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/LargestFrameInMatrix/obj/x86/Debug/LargestFrameInMatrix.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/LargestFrameInMatrix/obj/x86/Debug/LargestFrameInMatrix.exe.mdb

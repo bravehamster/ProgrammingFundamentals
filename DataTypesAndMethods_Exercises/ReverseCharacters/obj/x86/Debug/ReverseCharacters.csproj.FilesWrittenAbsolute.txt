@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/ReverseCharacters/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/ReverseCharacters/bin/Debug/ReverseCharacters.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/ReverseCharacters/bin/Debug/ReverseCharacters.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/ReverseCharacters/obj/x86/Debug/ReverseCharacters.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/ReverseCharacters/obj/x86/Debug/ReverseCharacters.exe.mdb

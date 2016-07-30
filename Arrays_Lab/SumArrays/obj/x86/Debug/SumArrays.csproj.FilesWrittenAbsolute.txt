@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/SumArrays/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/SumArrays/bin/Debug/SumArrays.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/SumArrays/bin/Debug/SumArrays.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/SumArrays/obj/x86/Debug/SumArrays.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/SumArrays/obj/x86/Debug/SumArrays.exe.mdb

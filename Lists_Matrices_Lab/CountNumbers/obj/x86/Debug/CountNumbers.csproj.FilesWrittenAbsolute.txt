@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/CountNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/CountNumbers/bin/Debug/CountNumbers.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/CountNumbers/bin/Debug/CountNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/CountNumbers/obj/x86/Debug/CountNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/CountNumbers/obj/x86/Debug/CountNumbers.exe.mdb

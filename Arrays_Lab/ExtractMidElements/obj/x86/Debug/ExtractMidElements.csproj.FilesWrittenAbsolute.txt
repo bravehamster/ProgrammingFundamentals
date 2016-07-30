@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ExtractMidElements/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ExtractMidElements/bin/Debug/ExtractMidElements.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ExtractMidElements/bin/Debug/ExtractMidElements.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ExtractMidElements/obj/x86/Debug/ExtractMidElements.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/ExtractMidElements/obj/x86/Debug/ExtractMidElements.exe.mdb

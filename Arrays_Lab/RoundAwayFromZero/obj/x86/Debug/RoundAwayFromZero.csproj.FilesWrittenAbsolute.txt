@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/RoundAwayFromZero/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/RoundAwayFromZero/bin/Debug/RoundAwayFromZero.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/RoundAwayFromZero/bin/Debug/RoundAwayFromZero.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/RoundAwayFromZero/obj/x86/Debug/RoundAwayFromZero.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/RoundAwayFromZero/obj/x86/Debug/RoundAwayFromZero.exe.mdb

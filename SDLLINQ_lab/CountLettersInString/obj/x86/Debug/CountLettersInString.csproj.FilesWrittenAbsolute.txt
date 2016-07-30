@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountLettersInString/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountLettersInString/bin/Debug/CountLettersInString.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountLettersInString/bin/Debug/CountLettersInString.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountLettersInString/obj/x86/Debug/CountLettersInString.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/CountLettersInString/obj/x86/Debug/CountLettersInString.exe.mdb

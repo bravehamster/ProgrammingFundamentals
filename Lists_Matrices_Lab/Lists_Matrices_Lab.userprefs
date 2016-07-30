@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="RotateAMatrix/RotateAMatrix.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RotateAMatrix/Program.cs">
+    <Files>
+      <File FileName="MatrixOfLetters/Program.cs" Line="14" Column="36" />
+      <File FileName="RotateAMatrix/Program.cs" Line="13" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

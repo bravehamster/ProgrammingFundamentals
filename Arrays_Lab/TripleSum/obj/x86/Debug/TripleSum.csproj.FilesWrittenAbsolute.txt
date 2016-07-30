@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/TripleSum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/TripleSum/bin/Debug/TripleSum.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/TripleSum/bin/Debug/TripleSum.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/TripleSum/obj/x86/Debug/TripleSum.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/TripleSum/obj/x86/Debug/TripleSum.exe.mdb

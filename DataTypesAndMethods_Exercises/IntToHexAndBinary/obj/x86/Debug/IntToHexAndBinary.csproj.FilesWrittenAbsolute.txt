@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/IntToHexAndBinary/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/IntToHexAndBinary/bin/Debug/IntToHexAndBinary.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/IntToHexAndBinary/bin/Debug/IntToHexAndBinary.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/IntToHexAndBinary/obj/x86/Debug/IntToHexAndBinary.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/IntToHexAndBinary/obj/x86/Debug/IntToHexAndBinary.exe.mdb

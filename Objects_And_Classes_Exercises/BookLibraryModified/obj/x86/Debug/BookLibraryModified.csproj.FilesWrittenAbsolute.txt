@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/BookLibraryModified/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/BookLibraryModified/bin/Debug/BookLibraryModified.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/BookLibraryModified/bin/Debug/BookLibraryModified.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/BookLibraryModified/obj/x86/Debug/BookLibraryModified.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/BookLibraryModified/obj/x86/Debug/BookLibraryModified.exe.mdb

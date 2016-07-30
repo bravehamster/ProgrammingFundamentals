@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/Tour/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/Tour/bin/Debug/Tour.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/Tour/bin/Debug/Tour.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/Tour/obj/x86/Debug/Tour.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/Tour/obj/x86/Debug/Tour.exe.mdb

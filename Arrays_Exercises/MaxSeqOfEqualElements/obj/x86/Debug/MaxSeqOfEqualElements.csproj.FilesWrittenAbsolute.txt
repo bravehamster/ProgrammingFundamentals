@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfEqualElements/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfEqualElements/bin/Debug/MaxSeqOfEqualElements.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfEqualElements/bin/Debug/MaxSeqOfEqualElements.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfEqualElements/obj/x86/Debug/MaxSeqOfEqualElements.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfEqualElements/obj/x86/Debug/MaxSeqOfEqualElements.exe.mdb

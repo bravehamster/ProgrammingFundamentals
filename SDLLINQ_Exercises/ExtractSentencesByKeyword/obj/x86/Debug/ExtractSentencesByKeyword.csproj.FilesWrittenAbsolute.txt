@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractSentencesByKeyword/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractSentencesByKeyword/bin/Debug/ExtractSentencesByKeyword.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractSentencesByKeyword/bin/Debug/ExtractSentencesByKeyword.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractSentencesByKeyword/obj/x86/Debug/ExtractSentencesByKeyword.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractSentencesByKeyword/obj/x86/Debug/ExtractSentencesByKeyword.exe.mdb

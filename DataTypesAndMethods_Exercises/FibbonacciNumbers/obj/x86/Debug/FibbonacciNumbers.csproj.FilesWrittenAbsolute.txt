@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/FibbonacciNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/FibbonacciNumbers/bin/Debug/FibbonacciNumbers.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/FibbonacciNumbers/bin/Debug/FibbonacciNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/FibbonacciNumbers/obj/x86/Debug/FibbonacciNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/FibbonacciNumbers/obj/x86/Debug/FibbonacciNumbers.exe.mdb

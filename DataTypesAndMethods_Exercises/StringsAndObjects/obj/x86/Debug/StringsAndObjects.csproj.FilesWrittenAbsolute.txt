@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/StringsAndObjects/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/StringsAndObjects/bin/Debug/StringsAndObjects.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/StringsAndObjects/bin/Debug/StringsAndObjects.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/StringsAndObjects/obj/x86/Debug/StringsAndObjects.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/StringsAndObjects/obj/x86/Debug/StringsAndObjects.exe.mdb

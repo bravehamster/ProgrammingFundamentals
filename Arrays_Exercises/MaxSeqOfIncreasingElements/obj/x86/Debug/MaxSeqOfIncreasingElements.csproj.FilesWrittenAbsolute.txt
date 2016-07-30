@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfIncreasingElements/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfIncreasingElements/bin/Debug/MaxSeqOfIncreasingElements.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfIncreasingElements/bin/Debug/MaxSeqOfIncreasingElements.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfIncreasingElements/obj/x86/Debug/MaxSeqOfIncreasingElements.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MaxSeqOfIncreasingElements/obj/x86/Debug/MaxSeqOfIncreasingElements.exe.mdb

@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/CompareFloats/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/CompareFloats/bin/Debug/CompareFloats.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/CompareFloats/bin/Debug/CompareFloats.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/CompareFloats/obj/x86/Debug/CompareFloats.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/CompareFloats/obj/x86/Debug/CompareFloats.exe.mdb

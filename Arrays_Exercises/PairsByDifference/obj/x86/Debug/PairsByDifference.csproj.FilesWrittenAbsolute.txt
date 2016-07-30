@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/PairsByDifference/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/PairsByDifference/bin/Debug/PairsByDifference.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/PairsByDifference/bin/Debug/PairsByDifference.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/PairsByDifference/obj/x86/Debug/PairsByDifference.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/PairsByDifference/obj/x86/Debug/PairsByDifference.exe.mdb

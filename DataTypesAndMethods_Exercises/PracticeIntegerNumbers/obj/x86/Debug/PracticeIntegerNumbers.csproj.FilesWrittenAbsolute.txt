@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PracticeIntegerNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PracticeIntegerNumbers/bin/Debug/PracticeIntegerNumbers.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PracticeIntegerNumbers/bin/Debug/PracticeIntegerNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PracticeIntegerNumbers/obj/x86/Debug/PracticeIntegerNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PracticeIntegerNumbers/obj/x86/Debug/PracticeIntegerNumbers.exe.mdb

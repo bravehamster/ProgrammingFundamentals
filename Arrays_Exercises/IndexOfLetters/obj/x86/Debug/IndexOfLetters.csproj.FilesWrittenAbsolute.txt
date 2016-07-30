@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/IndexOfLetters/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/IndexOfLetters/bin/Debug/IndexOfLetters.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/IndexOfLetters/bin/Debug/IndexOfLetters.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/IndexOfLetters/obj/x86/Debug/IndexOfLetters.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/IndexOfLetters/obj/x86/Debug/IndexOfLetters.exe.mdb

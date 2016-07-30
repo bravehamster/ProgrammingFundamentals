@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ChangeToUppercase/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ChangeToUppercase/bin/Debug/ChangeToUppercase.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ChangeToUppercase/bin/Debug/ChangeToUppercase.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ChangeToUppercase/obj/x86/Debug/ChangeToUppercase.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ChangeToUppercase/obj/x86/Debug/ChangeToUppercase.exe.mdb

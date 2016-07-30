@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/PrintStringLetters/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/PrintStringLetters/bin/Debug/PrintStringLetters.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/PrintStringLetters/bin/Debug/PrintStringLetters.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/PrintStringLetters/obj/x86/Debug/PrintStringLetters.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/PrintStringLetters/obj/x86/Debug/PrintStringLetters.exe.mdb

@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SquareNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SquareNumbers/bin/Debug/SquareNumbers.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SquareNumbers/bin/Debug/SquareNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SquareNumbers/obj/x86/Debug/SquareNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SquareNumbers/obj/x86/Debug/SquareNumbers.exe.mdb

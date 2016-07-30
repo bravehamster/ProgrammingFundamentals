@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MostFrequentNumber/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MostFrequentNumber/bin/Debug/MostFrequentNumber.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MostFrequentNumber/bin/Debug/MostFrequentNumber.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MostFrequentNumber/obj/x86/Debug/MostFrequentNumber.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/MostFrequentNumber/obj/x86/Debug/MostFrequentNumber.exe.mdb

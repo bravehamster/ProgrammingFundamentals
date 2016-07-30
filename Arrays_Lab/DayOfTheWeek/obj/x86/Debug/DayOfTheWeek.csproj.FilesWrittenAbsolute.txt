@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/DayOfTheWeek/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/DayOfTheWeek/bin/Debug/DayOfTheWeek.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/DayOfTheWeek/bin/Debug/DayOfTheWeek.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/DayOfTheWeek/obj/x86/Debug/DayOfTheWeek.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/DayOfTheWeek/obj/x86/Debug/DayOfTheWeek.exe.mdb

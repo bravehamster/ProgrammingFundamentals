@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MaxPlatform3By3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MaxPlatform3By3/bin/Debug/MaxPlatform3By3.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MaxPlatform3By3/bin/Debug/MaxPlatform3By3.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MaxPlatform3By3/obj/x86/Debug/MaxPlatform3By3.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/MaxPlatform3By3/obj/x86/Debug/MaxPlatform3By3.exe.mdb

@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractPalindromes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractPalindromes/bin/Debug/ExtractPalindromes.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractPalindromes/bin/Debug/ExtractPalindromes.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractPalindromes/obj/x86/Debug/ExtractPalindromes.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/ExtractPalindromes/obj/x86/Debug/ExtractPalindromes.exe.mdb

@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/PhoneBook/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/PhoneBook/bin/Debug/PhoneBook.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/PhoneBook/bin/Debug/PhoneBook.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/PhoneBook/obj/x86/Debug/PhoneBook.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/PhoneBook/obj/x86/Debug/PhoneBook.exe.mdb

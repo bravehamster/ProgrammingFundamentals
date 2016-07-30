@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PrimesInGivenRange/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PrimesInGivenRange/bin/Debug/PrimesInGivenRange.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PrimesInGivenRange/bin/Debug/PrimesInGivenRange.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PrimesInGivenRange/obj/x86/Debug/PrimesInGivenRange.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/PrimesInGivenRange/obj/x86/Debug/PrimesInGivenRange.exe.mdb

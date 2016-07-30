@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="BookLibraryModified/BookLibraryModified.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Objects_And_Classes_Exercises" expanded="True">
+            <Node name="AdvertisementMessage" expanded="True" />
+            <Node name="AverageGrades" expanded="True" />
+            <Node name="BookLibrary" expanded="True" />
+            <Node name="BookLibraryModified" expanded="True" />
+            <Node name="CountWorkingDays" expanded="True" />
+            <Node name="IntersectingCircles" expanded="True" />
+            <Node name="StudentGroups" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/StudentGroups/Program.cs" line="14" column="22" />
+      <Breakpoint file="/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/BookLibraryModified/Program.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

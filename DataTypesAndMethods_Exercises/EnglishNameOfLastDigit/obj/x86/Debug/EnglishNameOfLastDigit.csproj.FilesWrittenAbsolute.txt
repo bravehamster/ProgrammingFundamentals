@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/EnglishNameOfLastDigit/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/EnglishNameOfLastDigit/bin/Debug/EnglishNameOfLastDigit.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/EnglishNameOfLastDigit/bin/Debug/EnglishNameOfLastDigit.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/EnglishNameOfLastDigit/obj/x86/Debug/EnglishNameOfLastDigit.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/DataTypesAndMethods_Exercises/EnglishNameOfLastDigit/obj/x86/Debug/EnglishNameOfLastDigit.exe.mdb

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="LargestFrameInMatrix/LargestFrameInMatrix.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MatrixGenerator/Program.cs">
+    <Files>
+      <File FileName="LargestFrameInMatrix/Program.cs" Line="27" Column="1" />
+      <File FileName="MatrixGenerator/Program.cs" Line="11" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/HourglassSum/Program.cs" line="20" column="1" />
+      <Breakpoint file="/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/SumReversedNumbers/Program.cs" line="12" column="1" />
+      <Breakpoint file="/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Exercises/BombNumbers/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/AverageGrades/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/AverageGrades/bin/Debug/AverageGrades.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/AverageGrades/bin/Debug/AverageGrades.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/AverageGrades/obj/x86/Debug/AverageGrades.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Objects_And_Classes_Exercises/AverageGrades/obj/x86/Debug/AverageGrades.exe.mdb

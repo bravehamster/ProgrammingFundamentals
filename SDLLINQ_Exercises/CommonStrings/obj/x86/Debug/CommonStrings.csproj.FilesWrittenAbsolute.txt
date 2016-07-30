@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/CommonStrings/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/CommonStrings/bin/Debug/CommonStrings.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/CommonStrings/bin/Debug/CommonStrings.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/CommonStrings/obj/x86/Debug/CommonStrings.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_Exercises/CommonStrings/obj/x86/Debug/CommonStrings.exe.mdb

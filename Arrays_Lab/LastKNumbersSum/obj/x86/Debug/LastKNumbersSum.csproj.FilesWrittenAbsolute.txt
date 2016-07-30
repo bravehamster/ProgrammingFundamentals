@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/LastKNumbersSum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/LastKNumbersSum/bin/Debug/LastKNumbersSum.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/LastKNumbersSum/bin/Debug/LastKNumbersSum.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/LastKNumbersSum/obj/x86/Debug/LastKNumbersSum.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Lab/LastKNumbersSum/obj/x86/Debug/LastKNumbersSum.exe.mdb

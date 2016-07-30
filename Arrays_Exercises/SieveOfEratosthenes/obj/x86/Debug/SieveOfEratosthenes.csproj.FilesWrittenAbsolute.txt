@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/SieveOfEratosthenes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/SieveOfEratosthenes/bin/Debug/SieveOfEratosthenes.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/SieveOfEratosthenes/bin/Debug/SieveOfEratosthenes.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/SieveOfEratosthenes/obj/x86/Debug/SieveOfEratosthenes.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/SieveOfEratosthenes/obj/x86/Debug/SieveOfEratosthenes.exe.mdb

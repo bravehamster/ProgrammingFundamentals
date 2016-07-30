@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SumAdjacentEqualNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SumAdjacentEqualNumbers/bin/Debug/SumAdjacentEqualNumbers.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SumAdjacentEqualNumbers/bin/Debug/SumAdjacentEqualNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SumAdjacentEqualNumbers/obj/x86/Debug/SumAdjacentEqualNumbers.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Lists_Matrices_Lab/SumAdjacentEqualNumbers/obj/x86/Debug/SumAdjacentEqualNumbers.exe.mdb

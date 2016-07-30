@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/FoldAndSum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/FoldAndSum/bin/Debug/FoldAndSum.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/FoldAndSum/bin/Debug/FoldAndSum.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/FoldAndSum/obj/x86/Debug/FoldAndSum.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/FoldAndSum/obj/x86/Debug/FoldAndSum.exe.mdb

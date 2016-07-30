@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/ShortWordsSorted/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/ShortWordsSorted/bin/Debug/ShortWordsSorted.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/ShortWordsSorted/bin/Debug/ShortWordsSorted.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/ShortWordsSorted/obj/x86/Debug/ShortWordsSorted.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/SDLLINQ_lab/ShortWordsSorted/obj/x86/Debug/ShortWordsSorted.exe.mdb

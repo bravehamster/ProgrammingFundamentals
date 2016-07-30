@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/CompareCharArrays/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/CompareCharArrays/bin/Debug/CompareCharArrays.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/CompareCharArrays/bin/Debug/CompareCharArrays.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/CompareCharArrays/obj/x86/Debug/CompareCharArrays.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Arrays_Exercises/CompareCharArrays/obj/x86/Debug/CompareCharArrays.exe.mdb
