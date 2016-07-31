@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/TargetMultiplier/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/TargetMultiplier/bin/Debug/TargetMultiplier.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/TargetMultiplier/bin/Debug/TargetMultiplier.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/TargetMultiplier/obj/x86/Debug/TargetMultiplier.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/TargetMultiplier/obj/x86/Debug/TargetMultiplier.exe.mdb

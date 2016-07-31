@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/Sweet_Dessert/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/Sweet_Dessert/bin/Debug/Sweet_Dessert.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/Sweet_Dessert/bin/Debug/Sweet_Dessert.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/Sweet_Dessert/obj/x86/Debug/Sweet_Dessert.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/Sweet_Dessert/obj/x86/Debug/Sweet_Dessert.exe.mdb

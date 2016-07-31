@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sweet_Dessert", "Sweet_Dessert\Sweet_Dessert.csproj", "{E99F3555-1369-45A5-A817-4CAC1DBEED18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayModifier", "ArrayModifier\ArrayModifier.csproj", "{EAE0305B-FAB0-4A14-BA13-1996CFABFF47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetMultiplier", "TargetMultiplier\TargetMultiplier.csproj", "{BAFCADA9-4A13-4106-AE63-C6EC445953A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulationAggregation", "PopulationAggregation\PopulationAggregation.csproj", "{BEDA3C5E-0E3E-4609-9C73-359EE38F0573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFCADA9-4A13-4106-AE63-C6EC445953A3}.Debug|x86.ActiveCfg = Debug|x86
+		{BAFCADA9-4A13-4106-AE63-C6EC445953A3}.Debug|x86.Build.0 = Debug|x86
+		{BAFCADA9-4A13-4106-AE63-C6EC445953A3}.Release|x86.ActiveCfg = Release|x86
+		{BAFCADA9-4A13-4106-AE63-C6EC445953A3}.Release|x86.Build.0 = Release|x86
+		{BEDA3C5E-0E3E-4609-9C73-359EE38F0573}.Debug|x86.ActiveCfg = Debug|x86
+		{BEDA3C5E-0E3E-4609-9C73-359EE38F0573}.Debug|x86.Build.0 = Debug|x86
+		{BEDA3C5E-0E3E-4609-9C73-359EE38F0573}.Release|x86.ActiveCfg = Release|x86
+		{BEDA3C5E-0E3E-4609-9C73-359EE38F0573}.Release|x86.Build.0 = Release|x86
+		{E99F3555-1369-45A5-A817-4CAC1DBEED18}.Debug|x86.ActiveCfg = Debug|x86
+		{E99F3555-1369-45A5-A817-4CAC1DBEED18}.Debug|x86.Build.0 = Debug|x86
+		{E99F3555-1369-45A5-A817-4CAC1DBEED18}.Release|x86.ActiveCfg = Release|x86
+		{E99F3555-1369-45A5-A817-4CAC1DBEED18}.Release|x86.Build.0 = Release|x86
+		{EAE0305B-FAB0-4A14-BA13-1996CFABFF47}.Debug|x86.ActiveCfg = Debug|x86
+		{EAE0305B-FAB0-4A14-BA13-1996CFABFF47}.Debug|x86.Build.0 = Debug|x86
+		{EAE0305B-FAB0-4A14-BA13-1996CFABFF47}.Release|x86.ActiveCfg = Release|x86
+		{EAE0305B-FAB0-4A14-BA13-1996CFABFF47}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

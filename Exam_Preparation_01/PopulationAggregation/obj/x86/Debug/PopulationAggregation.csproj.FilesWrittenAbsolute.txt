@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/PopulationAggregation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/PopulationAggregation/bin/Debug/PopulationAggregation.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/PopulationAggregation/bin/Debug/PopulationAggregation.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/PopulationAggregation/obj/x86/Debug/PopulationAggregation.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_01/PopulationAggregation/obj/x86/Debug/PopulationAggregation.exe.mdb
