@@ -1,0 +1,5 @@
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_02/SoftUni_WaterSupplies/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_02/SoftUni_WaterSupplies/bin/Debug/SoftUni_WaterSupplies.exe.mdb
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_02/SoftUni_WaterSupplies/bin/Debug/SoftUni_WaterSupplies.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_02/SoftUni_WaterSupplies/obj/x86/Debug/SoftUni_WaterSupplies.exe
+/home/ciel/SoftUni/ProgrammingFundamentals/Exam_Preparation_02/SoftUni_WaterSupplies/obj/x86/Debug/SoftUni_WaterSupplies.exe.mdb

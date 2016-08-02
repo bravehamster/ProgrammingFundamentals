@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="MatrixOperator/MatrixOperator.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MatrixOperator/Program.cs">
+    <Files>
+      <File FileName="SoftUni_Airline/Program.cs" Line="20" Column="3" />
+      <File FileName="SoftUni_WaterSupplies/Program.cs" Line="25" Column="47" />
+      <File FileName="MatrixOperator/Program.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
